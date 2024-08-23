@@ -18,7 +18,3 @@ Makkan is a cutting-edge real estate listing platform offering a range of tools 
 - **User Accounts**: Manage your listings and saved searches through personalized accounts.
 - **Mobile-Friendly**: Enjoy a responsive design accessible from any device.
 
-
-1. **Clone the Repository**
-   
-   git clone https://github.com/robust-17/AWPmakkan.git
